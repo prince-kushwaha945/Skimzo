@@ -35,6 +35,7 @@ const Hero = () => {
       style={{
         background: `url('${heroBg.src}')`,
         backgroundSize: "100% 100%",
+    
       }}
      
     >
